@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\70ae42c07180c5956464ed8c500e4f4f4b90ff82\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b4db14d1baac7110127ebd3fafd10713d5d42a57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\a048f760eddb8d5430b4ae136582b4e54749d5cd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_af642697f0207325c606d82e1c00394e820a9561\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\b99cf555d38d509f7b8fa4f746d956373773287f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_6ce1f3d706569433074a683929fb013cfa6d90fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\70ae42c07180c5956464ed8c500e4f4f4b90ff82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0861c8bede05024939b2224868ff355d581ea8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_82b3262d4700c2be5ec69ef7b548930f4b79e4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_6fdea32829433d13b7caed128da147616e18e3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\b99cf555d38d509f7b8fa4f746d956373773287f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ce1f3d706569433074a683929fb013cfa6d90fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_82b3262d4700c2be5ec69ef7b548930f4b79e4a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\689387ae7697c55062aa09647c9dc321774e281d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b1df6ce13283a7e2b500c0697ea55ccd8aa66399\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6fdea32829433d13b7caed128da147616e18e3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\8e822cd886ec8df2eb3a6ab9e75835d5cb5109f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_c1dc630c023bdf2820c46a7ae2c68f9a7439d452.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\689387ae7697c55062aa09647c9dc321774e281d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b1df6ce13283a7e2b500c0697ea55ccd8aa66399.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\a048f760eddb8d5430b4ae136582b4e54749d5cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_797d3896ec78b67c628790d5ce21f58df2488d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\8877dd53d6b88a97a660b007440548901d530218\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ae89e7e5cae4f71c05540d33a582fe37b85d810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\c9ef67fe2029aaaf85b59ff663229e15b65ee567\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a301aef678bb399001d2570a1941d39654d55c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\a048f760eddb8d5430b4ae136582b4e54749d5cd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_af642697f0207325c606d82e1c00394e820a9561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\689387ae7697c55062aa09647c9dc321774e281d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_0c6225bfa9749f472053e12147325c3ef8b21598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\f50fd3797c688373c67c7bf6ce84b72b7de452c6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_50659bf4d6334f13008e013a01b26bb298be1844.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\689387ae7697c55062aa09647c9dc321774e281d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c6225bfa9749f472053e12147325c3ef8b21598\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\f50fd3797c688373c67c7bf6ce84b72b7de452c6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_50659bf4d6334f13008e013a01b26bb298be1844\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\c9ef67fe2029aaaf85b59ff663229e15b65ee567\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_a301aef678bb399001d2570a1941d39654d55c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\a048f760eddb8d5430b4ae136582b4e54749d5cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_797d3896ec78b67c628790d5ce21f58df2488d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\8877dd53d6b88a97a660b007440548901d530218\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_5ae89e7e5cae4f71c05540d33a582fe37b85d810.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3424ea4a704ddfe0b9bf15173bdc9b400f593cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\8e822cd886ec8df2eb3a6ab9e75835d5cb5109f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1dc630c023bdf2820c46a7ae2c68f9a7439d452\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\f50fd3797c688373c67c7bf6ce84b72b7de452c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_2ac7943085a9c021f87abb3ec98eb8f8194fdc55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\f50fd3797c688373c67c7bf6ce84b72b7de452c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ac7943085a9c021f87abb3ec98eb8f8194fdc55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7321079b93b5ea8a1a927bc25066994fbfec4e68">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3b99094c437632cab080dffbe9c24dbe99342a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\b9e1cfff3a1dc2a0aa36e9c480556b91cb89a86b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_2c2a44d8172d2bcfd03dc06d5accf0d31dbf803b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\b9e1cfff3a1dc2a0aa36e9c480556b91cb89a86b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c2a44d8172d2bcfd03dc06d5accf0d31dbf803b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\8e822cd886ec8df2eb3a6ab9e75835d5cb5109f3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4cbe4673979665a0ac41bd2202c947042b5f747a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\70ae42c07180c5956464ed8c500e4f4f4b90ff82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_0861c8bede05024939b2224868ff355d581ea8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\6998db9d848b5f61da545a2dcf333a827afe475f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\classes_29bc6ab31a5da1c8dcd384090f80061ec5524ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\70ae42c07180c5956464ed8c500e4f4f4b90ff82\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b4db14d1baac7110127ebd3fafd10713d5d42a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniel\.android\build-cache\8e822cd886ec8df2eb3a6ab9e75835d5cb5109f3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4cbe4673979665a0ac41bd2202c947042b5f747a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Daniel\.android\build-cache\6998db9d848b5f61da545a2dcf333a827afe475f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Daniel\Desktop\TFG\Programas\MyFisrtApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29bc6ab31a5da1c8dcd384090f80061ec5524ff6\classes.dex" />
+    </item>
+
+</items>

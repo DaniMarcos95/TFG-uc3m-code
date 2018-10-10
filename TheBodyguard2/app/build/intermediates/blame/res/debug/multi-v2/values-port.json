@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daniel/Desktop/Universidad/TFG/Programas/TheBodyguard2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6350ccd06c39d2b47ed65531221b01f4/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

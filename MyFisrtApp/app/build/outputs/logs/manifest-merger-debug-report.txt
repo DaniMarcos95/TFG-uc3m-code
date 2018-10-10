@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/929634d516b188af57a430967e6e3116/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/378d6cb31efe93690a95e5f496763780/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/485d5e1e2e4849588940d1a01f268503/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4668fc71991111d89935521a6322d0de/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/f37dfa35ddd24b64af8e3507365494c5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/22d8bb2c70702e9fc0685291a4754845/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/063403c2bef501d1e6f5b13bc423d3f9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/076b86b49b49c515c6677fb23c82cde7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/8b7fbefde2c527b4006a6b4be71dba25/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:6:22-65
+application
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/929634d516b188af57a430967e6e3116/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/929634d516b188af57a430967e6e3116/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/378d6cb31efe93690a95e5f496763780/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/378d6cb31efe93690a95e5f496763780/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/485d5e1e2e4849588940d1a01f268503/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/485d5e1e2e4849588940d1a01f268503/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4668fc71991111d89935521a6322d0de/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4668fc71991111d89935521a6322d0de/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/f37dfa35ddd24b64af8e3507365494c5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/f37dfa35ddd24b64af8e3507365494c5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/22d8bb2c70702e9fc0685291a4754845/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/22d8bb2c70702e9fc0685291a4754845/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/063403c2bef501d1e6f5b13bc423d3f9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/063403c2bef501d1e6f5b13bc423d3f9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/076b86b49b49c515c6677fb23c82cde7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/076b86b49b49c515c6677fb23c82cde7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/8b7fbefde2c527b4006a6b4be71dba25/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/8b7fbefde2c527b4006a6b4be71dba25/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.daniel.myfisrtapp.MainActivity
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.daniel.myfisrtapp.Accelerometer
+ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/929634d516b188af57a430967e6e3116/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/929634d516b188af57a430967e6e3116/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/378d6cb31efe93690a95e5f496763780/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/378d6cb31efe93690a95e5f496763780/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/485d5e1e2e4849588940d1a01f268503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/485d5e1e2e4849588940d1a01f268503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4668fc71991111d89935521a6322d0de/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/4668fc71991111d89935521a6322d0de/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/f37dfa35ddd24b64af8e3507365494c5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/f37dfa35ddd24b64af8e3507365494c5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/22d8bb2c70702e9fc0685291a4754845/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/22d8bb2c70702e9fc0685291a4754845/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/063403c2bef501d1e6f5b13bc423d3f9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/063403c2bef501d1e6f5b13bc423d3f9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/076b86b49b49c515c6677fb23c82cde7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/076b86b49b49c515c6677fb23c82cde7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/8b7fbefde2c527b4006a6b4be71dba25/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/8b7fbefde2c527b4006a6b4be71dba25/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/7f1c863a7f585281d6f0892bffbe45df/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/daniel/Desktop/Universidad/TFG/Programas/MyFisrtApp/app/src/main/AndroidManifest.xml
